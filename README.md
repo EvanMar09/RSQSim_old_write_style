@@ -5,3 +5,6 @@ Here are where you can find the papers that you need to cite if using this:
 Dieterich,1995: https://npg.copernicus.org/articles/2/109/1995/npg-2-109-1995.pdf
 Dieterich & Richards-Dinger, 2010: https://link.springer.com/article/10.1007/s00024-010-0094-0
 Richards-Dinger & Dieterich, 2012: https://pubs.geoscienceworld.org/ssa/srl/article/83/6/983/315277/RSQSim-Earthquake-Simulator?guestAccessKey=
+
+
+The file old_write_style_for_git only conatins the source code and now post processing scripts
