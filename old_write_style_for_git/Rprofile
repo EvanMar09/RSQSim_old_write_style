@@ -1,8 +1,0 @@
-#if (file.exists("~/.Rprofile")) source("~/.Rprofile")
-RSQSimHome <- Sys.getenv("RSQSIMHOME")
-if (nchar(RSQSimHome) == 0) RSQSimHome <- "/Users/evan/Desktop/new_RSQSim/old-write-style"
-#if (nchar(RSQSimHome) == 0) RSQSimHome <- "/Users/rdouilly/Documents/Research_project/RSQSim/old-write-style"
-lib.loc <- paste(RSQSimHome, "/Rlibs", sep="")
-library("RSQSimPostProcess", lib.loc=lib.loc)
-library("RSQSimBuildFaultModels", lib.loc=lib.loc)
-
